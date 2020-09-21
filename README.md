@@ -1,8 +1,10 @@
 # PAQ-U170
 
-This game is a side project that has been around for about almost two years, but the real development time was about only one year. It started as an experiment for learning how to develop a small serious game with my friend @sariusdev as a 3D artist; our mate @_matrioshka joined us recently to help us with narrative design and audiovisual production.
+This game is a side project that has been around for about almost two years*, but the real development time was about only one year. It started as an experiment for learning how to develop a small serious game with my friend @sariusdev as a 3D artist; our mate @_matrioshka joined us recently to help us with narrative design and audiovisual production.
 
 Our main focus was to finish a game with a small scope, out of a "game jam game".
+
+*As a result of that, I'm not 100% happy with the code base, since many things didn't need to be modified or were done at the beginning.
 
 ## Play it!
 https://xiphereal.itch.io/paq-u170
